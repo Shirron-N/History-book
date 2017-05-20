@@ -1,0 +1,21 @@
+echo "# History-book" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Shirron-N/History-book.git
+git push -u origin master
+@book{book:1417602,
+                        resid = {1417602},
+                        location =     {1417000/17d5529752e575e5887de92ca2c71231},
+                        status =    {OK},
+                        subject = { },
+                        title =      {The Routledge Handbook of American Military and Diplomatic History: The Colonial Period to 1877},
+                        author =      {Christos G. Frentzos, Antonio S. Thompson},
+                        size =    {5390951},
+                        type =   {pdf},
+                        isbn = {},
+                        edition = {},
+                        volume =    {},
+                        md5 = {17d5529752e575e5887de92ca2c71231},
+                        url =       {1417000/17d5529752e575e5887de92ca2c71231}}
+                    
